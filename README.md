@@ -1,4 +1,4 @@
-# IAs-can-solve-captchas-too
+# IAs can solve captchas too
 
 ## Introducción
 <p align="justify"> Las contraseñas fuertes son necesarias para evitar intentos de hackeo mediante ataques de fuerza bruta o ataques de diccionario, pero no es un método infalible. Con la creciente capacidad de los ordenadores, el crackeo de contraseñas se va volviendo cada vez más sencillo y la creación de nuevas técnicas, así como la venida de nuevas tecnologías, como los ordenadores cuánticos, hacen inviable incluso el cifrado de estas</p>
